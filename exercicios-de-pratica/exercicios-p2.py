@@ -18,15 +18,15 @@
 
 # idade = int (input ("Digite sua idade: "));
 
-# if  0 < idade < 12:
+# if  0 <= idade <= 12:
 
 #     print ("Você é uma Criança");
 
-# elif 13 < idade < 18:
+# elif 13 <= idade < 18:
 
 #     print ("Você é um Adolescente");
 
-# elif idade > 18:
+# elif idade => 18:
 
 #     print ("Você é Adulto");
 
