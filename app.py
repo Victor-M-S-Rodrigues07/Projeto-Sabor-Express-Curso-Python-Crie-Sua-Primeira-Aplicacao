@@ -1,4 +1,8 @@
-print("""
+import os;
+
+def exibir_nome_do_programa():
+
+    print("""
 
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 █░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░███░░░░░░░░░░░░░░█░░░░░░░░░░░░░░░░██████░░░░░░░░░░░░░░█░░░░░░░░██░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░░░███░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█
@@ -13,12 +17,52 @@ print("""
 █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀▄▀▄▀░░████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀░░██░░▄▀▄▀░░█░░▄▀░░█████████░░▄▀░░██░░▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
 █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██░░░░░░░░░░████░░░░░░░░░░░░░░█░░░░░░░░██░░░░░░░░█░░░░░░█████████░░░░░░██░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-""");
+    """);
 
-print ("1 - Cadastrar restaurante");
-print ("2 - Listar restaurante");
-print ("3 - Ativar restaurante");
-print ("4 - Sair\n");
+def exibir_opcoes():
 
-opcao_escolhida = input ("Escolha uma opção: ");
-print (f"Você escolheu a opção {opcao_escolhida}");
+    print ("1 - Cadastrar restaurante");
+    print ("2 - Listar restaurantes");
+    print ("3 - Ativar restaurante");
+    print ("4 - Sair\n");
+
+def escolher_opcao():
+
+    opcao_escolhida = int(input ("Escolha uma opção: "));
+    if opcao_escolhida == 1:
+
+        print ("Cadastrar restaurante");
+
+    elif opcao_escolhida == 2:
+
+        print ("Listar restaurantes");
+
+    elif opcao_escolhida == 3:
+
+        print ("Ativar restaurante");
+
+    else:
+
+        encerrar_app();
+
+def encerrar_app ():
+
+    os.system ("cls");
+    print ("Encerrando o programa...");
+
+def main():
+
+    exibir_nome_do_programa();
+    exibir_opcoes();
+    escolher_opcao();
+    
+
+if __name__ == "__main__":
+    main();
+
+# Type() - define o tipo de dado do elemento;
+# int() - transforma em inteiro {Semelhante ao ParseInt() do JavaScript};
+# def - Define uma função {Function, no JavaScript};
+# import - importa funcionalidades do Python;
+# main() - função principal. Não pode ser importada;
+# match - unidade de condicional, sendo uma opção ao "if" e "else".
