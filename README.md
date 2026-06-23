@@ -8,15 +8,13 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-descri%C3%A7%C3%A3o-do-projeto)
-- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-objetivos-do-curso)
-- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-prot%C3%B3tipo-do-projeto-no-figma)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-tecnologias-utilizadas)
-- [⚙ Funcionalidades e Inovações do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-funcionalidades-e-inova%C3%A7%C3%B5es-do-projeto)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-estrutura-do-projeto)
-- [📷 Imagens do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-imagens-do-projeto)
-- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-autor)
-- [☎ Contatos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Alura-Plus--Projeto-N1-2026#-contatos)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-descri%C3%A7%C3%A3o-do-projeto)
+- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-objetivos-do-curso)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-tecnologias-utilizadas)
+- [⚙ Funcionalidades do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-funcionalidades-do-projeto)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-estrutura-do-projeto)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-autor)
+- [☎ Contatos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Sabor-Express--Projeto-N2-2026#-contatos)
 
 ## 📝 Descrição do Projeto
 
