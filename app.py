@@ -194,19 +194,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-
-# Type() - define o tipo de dado do elemento;
-# int() - transforma em inteiro {Semelhante ao ParseInt() do JavaScript};
-# def - Define uma função {Function, no JavaScript};
-# import - importa funcionalidades do Python;
-# main() - função principal. Não pode ser importada;
-# match - unidade de condicional, sendo uma opção ao "if" e "else".
-# Try-Except: pede ao Python executar um código que, caso não funcione, acione outra função, o que não quebra o código.
-# Tupla: lista que não pode ser alterada uma vez criada.
-# Pass: pede para o programa ignorar uma função incompleta
-# Dicionário: contém as informações em forma de listas dentre de uma lista, praticamente
-# Regras de Negócio: definições constituídas pelo time para a criação do código
-# Ternários: instruções simplificadas dentro de outras estruturas, como mensagens
-# len(): função que entrega o tamanho dos elementos
-# ljust(): justifica o conteúdo de uma string
-# docstring: descrição adicionada a uma função
